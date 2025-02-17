@@ -1,4 +1,5 @@
 Privacy Policy
+
 This privacy policy is applicable to the Expansions tracker app (hereinafter referred to as "Application") for mobile devices, which was developed by Alessandro Peruzzi (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
 
 
